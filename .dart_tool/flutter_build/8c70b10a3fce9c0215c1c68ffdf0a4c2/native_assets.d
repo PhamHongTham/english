@@ -1,0 +1,1 @@
+ /Users/tiendat/tham2/english/.dart_tool/flutter_build/8c70b10a3fce9c0215c1c68ffdf0a4c2/native_assets.yaml: 
